@@ -1,0 +1,3 @@
+grant codeBase "file:/.../src/Quadrat.java" {
+   permission java.util.PropertyPermission "*", "read,write";
+ };
